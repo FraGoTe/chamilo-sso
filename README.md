@@ -1,5 +1,5 @@
-Chamilo SSO Sample
-==================
+Chamilo 1.9.8 SSO Sample
+========================
 
  This is the "server" of my institution/university authentification "code"
   
